@@ -1,0 +1,5 @@
+I built Orbit, a task manager with more than a plain list.
+
+Tasks have categories, priorities, due dates and can repeat. There are Today, Upcoming, Calendar and Analytics views, and each user only sees their own work. React and Supabase.
+
+https://smart-todo-app-sable.vercel.app

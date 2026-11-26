@@ -1,0 +1,5 @@
+I built a notes app.
+
+Sign up, log in, and write notes with a title. Each note is saved with its date and you can edit or delete it later. Plain JavaScript with Supabase for login and storage.
+
+https://notes-app-muaaz.vercel.app

@@ -1,0 +1,5 @@
+Meri pehli full stack todo app.
+
+Apna account banao, login karo, task likho, tick karo, hatao. Phone par bhi chalti hai. React aur Supabase se banai hai.
+
+https://lucky-pika-bd9eae.netlify.app
