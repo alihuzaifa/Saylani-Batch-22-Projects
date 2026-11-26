@@ -1,0 +1,5 @@
+I built Ocean Todo, a small task app with its own login.
+
+Add tasks, tick them off, edit them, clear the completed ones, and download your list as a PDF. React and Supabase.
+
+https://ocean-todo.vercel.app

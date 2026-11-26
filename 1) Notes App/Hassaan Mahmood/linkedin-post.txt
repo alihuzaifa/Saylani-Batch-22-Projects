@@ -1,0 +1,5 @@
+I built a todo app in React with Supabase login.
+
+Each account has its own list. You can add, edit, delete and tick off tasks, filter by All, Active and Done, and switch between light and dark mode.
+
+Live here: https://todo-app-react-nine-pied.vercel.app

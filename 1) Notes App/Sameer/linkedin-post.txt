@@ -1,0 +1,5 @@
+I built TaskFlow, a task manager with a dashboard.
+
+After you sign in you see how many tasks are pending, how many are done, and your progress. Every task can have a priority and a due date. React on the front, Supabase for login and data.
+
+https://todo-app-react-803288.vercel.app
