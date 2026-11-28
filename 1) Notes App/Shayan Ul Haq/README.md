@@ -7,4 +7,5 @@
 ![poster](poster.jpg)
 
 - Demo video: [video.mp4](video.mp4)
+- Download video (phone): https://github.com/alihuzaifa/Saylani-Batch-22-Projects/raw/master/1%29%20Notes%20App/Shayan%20Ul%20Haq/video.mp4
 - LinkedIn post: [linkedin-post.txt](linkedin-post.txt)
