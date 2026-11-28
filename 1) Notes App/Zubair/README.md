@@ -2,6 +2,9 @@
 
 - Roll number: 801500
 - Live site: https://new-todo-application-sand.vercel.app
-- Submitted: 2026/11/25 11:47:06 PM GMT+5
+- Submitted: 2026/11/26 4:07:22 PM GMT+5
 
-Video pending: the app shows a 404 page after login.
+![poster](poster.jpg)
+
+- Demo video: [video.mp4](video.mp4)
+- LinkedIn post: [linkedin-post.txt](linkedin-post.txt)

@@ -14,4 +14,10 @@ Each student built an app with sign up, log in, and a personal list stored in Su
 | [Shayan Ul Haq](Shayan%20Ul%20Haq/) | 803425 | https://ocean-todo.vercel.app | [video](Shayan%20Ul%20Haq/video.mp4) |
 | [Salman Haider](Salman%20Haider/) | WMA-809539 | https://relaxed-bubblegum-793d17.netlify.app | [video](Salman%20Haider/video.mp4) |
 | [Saleh Muhammad](Saleh%20Muhammad/) | WMA-801938 | https://relaxed-bubblegum-793d17.netlify.app | [video](Saleh%20Muhammad/video.mp4) |
-| [Zubair](Zubair/) | 801500 | https://new-todo-application-sand.vercel.app | pending |
+| [Zubair](Zubair/) | 801500 | https://new-todo-application-sand.vercel.app | [video](Zubair/video.mp4) |
+| [Mohammad Anis Ur Rehman Haidri](Mohammad%20Anis%20Ur%20Rehman%20Haidri/) | 809039 | https://todo-app-pearl-one-35.vercel.app | [video](Mohammad%20Anis%20Ur%20Rehman%20Haidri/video.mp4) |
+| [Huzaifa Amin](Huzaifa%20Amin/) | 821729 | https://to-do-app-mu-neon.vercel.app | [video](Huzaifa%20Amin/video.mp4) |
+| [Muhammad Mujtaba Khan](Muhammad%20Mujtaba%20Khan/) | WMA-813608 | https://todo-app-mujtuba.vercel.app | pending |
+| [M.Rayan](M.Rayan/) | 817526 | https://todo-app-one-red-69.vercel.app | pending |
+| [Gul Muhammad](Gul%20Muhammad/) | BSCS-F22-800926 | https://todo-vqeb.vercel.app | [video](Gul%20Muhammad/video.mp4) |
+| [Muhammad Bilal](Muhammad%20Bilal/) | 801176 | https://react-dashboard-supabase-ohfabf8qc-bilal-2646.vercel.app | pending |
